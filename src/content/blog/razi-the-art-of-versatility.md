@@ -138,7 +138,7 @@ Following another creative hiatus, Razi made the biggest artistic decision of hi
 He officially retired the name 2x Smokie, adopting his real name as his artistic identity: Razi.
 
 <figure>
-  <img src="/images/cover.jpg" alt="Razi profile picture" />
+  <img src="/images/havanna.jpg" alt="Razi profile picture" />
   <figcaption>Razi's profile picture across music streaming services.</figcaption>
 </figure>
 
