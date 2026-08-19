@@ -3,6 +3,7 @@ title: "Razi: The Art of Versatility"
 pubDate: 2026-08-03
 description: "From hard-hitting trap to genre-defying artistry — how Toronto's Razi built a career defined by constant evolution."
 thumbnail: "/images/havanna.jpg"
+thumbnail: "/images/havanna.jpg"
 ---
 
 Few artists develop as dramatically as Razi. Originally performing under the moniker 2x Smokie, the Toronto, Ontario artist has built a reputation by refusing to remain in one lane. Since beginning his musical journey, Razi has consistently reinvented both his sound and artistic identity, evolving from hard-hitting trap records to emotionally driven melodic music, R&B, house, Afrobeats, and multilingual performances. Throughout every era of his career, one quality has remained constant: versatility.
