@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{post.data.title} — Kulture</title>
+    <meta name="description" content={post.data.description} />
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="/" class="logo">Kulture</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <article class="post-article">
+        <a href="/blog" class="back-link">&larr; Back to posts</a>
+        <h1>{post.data.title}</h1>
+        <p class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+        <Content />
+      </article>
+    </main>
+
+    <footer>
+      <p>&copy; {new Date().getFullYear()} Kulture. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blog — Kulture</title>
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="/" class="logo">Kulture</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <h1>All Posts</h1>
+      <ul class="post-list">
+        {posts.map((post) => (
+          <li class="post-card">
+            <a href={`/blog/${post.slug}/`}>
+              <h3>{post.data.title}</h3>
+              <p class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+              <p>{post.data.description}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </main>
+
+    <footer>
+      <p>&copy; {new Date().getFullYear()} Kulture. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
