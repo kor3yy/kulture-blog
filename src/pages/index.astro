@@ -37,6 +37,9 @@ const posts = (await getCollection('blog')).sort(
           {posts.map((post) => (
             <li class="post-card">
               <a href={`/blog/${post.slug}/`}>
+                {post.data.thumbnail && (
+                  <img src={post.data.thumbnail} alt={post.data.title} class="post-thumbnail" />
+                )}
                 <h3>{post.data.title}</h3>
                 <p class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
                 <p>{post.data.description}</p>
