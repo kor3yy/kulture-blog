@@ -1,4 +1,4 @@
-# Kulture Blog
+# Turath Blog
 
 A clean, fast blog built with [Astro](https://astro.build) and deployed on Cloudflare.
 
@@ -21,12 +21,12 @@ npm run preview
 ## Project Structure
 
 ```
-kulture-blog/
+turath-blog/
 ├── src/
 │   ├── content/
 │   │   ├── config.ts          # Content collection schema
 │   │   └── blog/               # Your blog posts (Markdown)
-│   │       ├── welcome-to-kulture.md
+│   │       ├── welcome-to-turath.md
 │   │       ├── why-static-sites-still-matter.md
 │   │       └── the-art-of-starting-simple.md
 │   ├── pages/
@@ -77,4 +77,4 @@ Your content here in Markdown...
 
 ## Adding a Custom Domain Later
 
-When you're ready, you can register a domain (like `kulture.com`) and add it to your Pages project in the Cloudflare dashboard under **Custom domains**.
+When you're ready, you can register a domain (like `turath.com`) and add it to your Pages project in the Cloudflare dashboard under **Custom domains**.
