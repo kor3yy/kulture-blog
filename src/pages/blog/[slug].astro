@@ -36,11 +36,6 @@ const { Content } = await post.render();
     <main>
       <article class="post-article">
         <a href="/blog" class="back-link">&larr; Back to posts</a>
-        {post.data.thumbnail && (
-          <div class="article-hero">
-            <img src={post.data.thumbnail} alt={post.data.title} class="article-hero-img" />
-          </div>
-        )}
         <h1>{post.data.title}</h1>
         <p class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
         <Content />
