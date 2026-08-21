@@ -9,9 +9,10 @@ For Savia Ashby, music has always been connected to identity. Long before she wa
 
 With her releases But I Might and Juiceboxx, Ashby has already shown two different sides of herself as an artist. One explores vulnerability, while the other embraces confidence and personality. Together, they introduce an artist who is comfortable being both emotionally open and unapologetically herself.
 
-![Savia Ashby at the beach](/images/beach.jpg)
-
-*Savia Ashby in Toronto.*
+<figure>
+  <img src="/images/beach.jpg" alt="Savia Ashby at the beach" />
+  <figcaption>Savia Ashby in Toronto.</figcaption>
+</figure>
 
 ## Roots and Identity
 
@@ -19,7 +20,10 @@ Growing up in Canada, Ashby describes her childhood as a supportive and communic
 
 Ashby's identity is also shaped by the combination of cultures she grew up around. Her mother's side is Polish, while her father's side is Canadian with Scandinavian roots. Rather than feeling separate, those backgrounds naturally blended together throughout her upbringing. Her father's Canadian influence reflected the environment she lived in, while her mother kept Polish traditions present in their family life.
 
-![Savia Ashby with a red car](/images/red-car-cutie.jpg)
+<figure>
+  <img src="/images/red-car-cutie.jpg" alt="Savia Ashby with a red car" />
+  <figcaption>Savia Ashby with a red car.</figcaption>
+</figure>
 
 For Ashby, that connection to her heritage continues to influence the way she sees the world.
 
@@ -35,7 +39,10 @@ Although singing was always something she loved, music became something more ser
 
 Growing up, Ashby found inspiration in some of pop's biggest names, including Ariana Grande, Selena Gomez, Lady Gaga, and The Black Eyed Peas. Those artists shaped her appreciation for memorable melodies, powerful performances, and music that connects with people.
 
-![Savia Ashby wearing a cap](/images/wearing-a-cap-pretty.jpg)
+<figure>
+  <img src="/images/wearing-a-cap-pretty.jpg" alt="Savia Ashby wearing a cap" />
+  <figcaption>Savia Ashby wearing a cap.</figcaption>
+</figure>
 
 However, inspiration does not mean imitation. Ashby is focused on taking those influences and turning them into something personal.
 
@@ -53,17 +60,19 @@ She describes her music as "very fun and vocally focused," a style influenced by
 
 ## But I Might and Juiceboxx
 
-![But I Might single artwork](/images/but-i-might.jpg)
+<figure>
+  <img src="/images/but-i-might.jpg" alt="But I Might single artwork" />
+  <figcaption>But I Might, Savia Ashby's debut single.</figcaption>
+</figure>
 
 That vocal focus is already present throughout Ashby's releases. But I Might introduced listeners to a more vulnerable side of her artistry, using emotion and honesty as the foundation. The song showed her ability to express personal experiences while creating something relatable.
 
-*But I Might, Savia Ashby's debut single.*
-
-![Juiceboxx single artwork](/images/juiceboxx.jpg)
+<figure>
+  <img src="/images/juiceboxx.jpg" alt="Juiceboxx single artwork" />
+  <figcaption>Juiceboxx, Ashby's second single.</figcaption>
+</figure>
 
 With Juiceboxx, Ashby shifted the energy. The track brings a more playful and confident perspective, using humor and clever lyricism to explore modern dating and emotional immaturity. Instead of moving away from vulnerability, it shows another side of the same artist – one who can be both reflective and fearless.
-
-*Juiceboxx, Ashby's second single.*
 
 In a genre where many artists can begin to blend together, Ashby believes her voice and songwriting approach help separate her from the crowd.
 
@@ -77,10 +86,16 @@ Looking ahead, Ashby sees herself somewhere between the worlds of artists like M
 
 Beyond her releases, Ashby continues building her presence through performances in Toronto and connecting with listeners online through behind-the-scenes studio content, previews, and creative videos that show the personality behind the music.
 
-![Savia Ashby modeling](/images/savia-being-a-model.jpg)
+<figure>
+  <img src="/images/savia-being-a-model.jpg" alt="Savia Ashby modeling" />
+  <figcaption>Savia Ashby modeling.</figcaption>
+</figure>
 
 For Ashby, the goal has never been simply to make songs – it has been to create something people can connect with. But I Might introduced her emotional side. Juiceboxx showed her confidence. Together, they represent the beginning of an artist who knows where she wants to go while still leaving room to discover what comes next.
 
-![Savia Ashby tunnel vision](/images/tunnel-vision.jpg)
+<figure>
+  <img src="/images/tunnel-vision.jpg" alt="Savia Ashby tunnel vision" />
+  <figcaption>Savia Ashby, tunnel vision.</figcaption>
+</figure>
 
 Savia Ashby isn't trying to fit into pop music's existing blueprint. She's building one that feels like her own.
