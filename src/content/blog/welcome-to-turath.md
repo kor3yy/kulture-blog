@@ -1,6 +1,9 @@
 ---
 title: "Acknowledgments"
+pubDate: 2026-07-01
+description: "Eternally grateful for each and every soul who existed, and inspired."
 ---
+
 
 Acknowledgments
 
