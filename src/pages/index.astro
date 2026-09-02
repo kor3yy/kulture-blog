@@ -6,7 +6,7 @@ const posts = (await getCollection('blog')).sort(
 );
 
 const postsWithThumbs = posts.map((post) => {
-  const match = post.body.match(/src="([^"]*\.(jpg|jpeg|png|gif|webp))"/i);
+  const match = post.body && post.body.match(/src="([^"]*\.(jpg|jpeg|png|gif|webp))"/i);
   const firstImage = match ? match[1] : post.data.thumbnail;
   return { ...post, firstImage };
 });
