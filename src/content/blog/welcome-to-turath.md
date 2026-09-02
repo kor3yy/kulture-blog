@@ -3,7 +3,7 @@ title: "Acknowledgments"
 pubDate: 2026-08-19T00:00:00Z
 description: "This project would never have been possible without these beautiful souls, whose love, support, and belief carried me through it all. A piece of my heart belongs to each of them."
 pinned: true
-thumbnail: /1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG
+thumbnail: /images/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG
 ---
 
 Leen. My heart, my soul, my everything. This project—every letter, every code, every character typed, every story, every breath, every heartbeat—is dedicated to you. Your presence changed the shape of my life forever, and you're forever going to be that beautiful decorated soul for me.
@@ -17,7 +17,7 @@ Inas, mother of Leen, for the art and legacy she left behind.
 Farah, sister of Leen. For being the sister of my favourite lost soul, my guardian angel, and one of the greatest influences on my world of art, fashion, and music. You aspire and motivate me everyday. Your words are ethereal and your presence is halcyon. Your support has meant more than I could ever put into words. So much of what exists here would never have found its way into the
 world without you. I love you, and I promise to continue making you proud of me.
 
-![Farah](/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG)
+![Farah](/images/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG)
 
 My great uncle Ahmad & my uncle Zain. Allah yrhamkom.
 
