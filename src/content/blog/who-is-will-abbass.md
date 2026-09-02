@@ -1,8 +1,8 @@
 ---
 title: "Will Abbass: Seven Foot Views"
 pubDate: 2026-08-25
-Will Abbass: Seven Foot Views
-A look into Will Abbass’s journey from basketball to photography, the influences shaping his work, and his vision for building a stronger creative community through SFV.."
+A look into Will Abbass’s journey from basketball to photography, the influences shaping his work, and his vision for building a stronger creative community through SFV."
+
 ---
 
 # Who is Will Abbass?
