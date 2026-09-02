@@ -29,13 +29,15 @@
         "thumbnail": {
           "type": "string"
         },
+        "pinned": {
+          "type": "boolean"
+        },
         "$schema": {
           "type": "string"
         }
       },
       "required": [
         "title",
-        "pubDate",
         "description"
       ],
       "additionalProperties": false
