@@ -2,8 +2,6 @@
 title: "Alexia Ntakos: From the Soccer Field to a 225KM Challenge"
 pubDate: 2026-09-02
 description: "How a former youth soccer standout turned personal loss into a 225-kilometre fundraising run for cardiovascular research."
-thumbnail: "/images/alexia1.jpeg"
-thumbnail: "/images/alexia1.jpeg"
 thumbnail: "/images/FkmRANZXoAI_rA9.jpeg"
 ---
 
