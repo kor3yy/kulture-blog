@@ -1,7 +1,8 @@
 ---
-title: "Who is Will Abbass?"
-pubDate: 2026-09-02
-description: "From professional basketball to photography and creative direction — how Will Abbass is building SFV and putting Halifax's creative scene on the global stage."
+title: "Will Abbass: Seven Foot Views"
+pubDate: 2026-08-25
+Will Abbass: Seven Foot Views
+A look into Will Abbass’s journey from basketball to photography, the influences shaping his work, and his vision for building a stronger creative community through SFV.."
 ---
 
 # Who is Will Abbass?
