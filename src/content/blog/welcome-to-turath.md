@@ -1,5 +1,6 @@
 ---
 title: "Acknowledgments"
+pubDate: 2026-08-19T00:00:00Z
 description: "This project would never have been possible without these beautiful souls, whose love, support, and belief carried me through it all. A piece of my heart belongs to each of them."
 pinned: true
 thumbnail: /1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG
