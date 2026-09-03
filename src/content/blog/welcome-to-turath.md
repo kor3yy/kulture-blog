@@ -1,9 +1,8 @@
 ---
 title: "Acknowledgments"
-pubDate: 2026-08-19T00:00:00Z
 description: "This project would never have been possible without these beautiful souls, whose love, support, and belief carried me through it all. A piece of my heart belongs to each of them."
 pinned: true
-thumbnail: /images/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG
+thumbnail: /images/harb.jpeg
 ---
 
 Leen. My heart, my soul, my everything. This project—every letter, every code, every character typed, every story, every breath, every heartbeat—is dedicated to you. Your presence changed the shape of my life forever, and you're forever going to be that beautiful decorated soul for me.
@@ -14,12 +13,19 @@ Sara, sister of Leen, for her tenderness,
 Ibrahim, brother of Leen, for aspiring and dreaming.
 Inas, mother of Leen, for the art and legacy she left behind.
 
+![ibrahim](/images/ibrahim.PNG)
+![sara](/images/sara.jpeg)
+![leenalbi](/images/leenalbi.jpg)
+![1handallah](/images/handallah.jpeg)
+
 Farah, sister of Leen. For being the sister of my favourite lost soul, my guardian angel, and one of the greatest influences on my world of art, fashion, and music. You aspire and motivate me everyday. Your words are ethereal and your presence is halcyon. Your support has meant more than I could ever put into words. So much of what exists here would never have found its way into the
 world without you. I love you, and I promise to continue making you proud of me.
 
-![Farah](/images/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG)
+![1DFC6E1B-DF33-402B-A3A7-DCE358213C58](/images/1DFC6E1B-DF33-402B-A3A7-DCE358213C58.JPG)
 
-My great uncle Ahmad & my uncle Zain. Allah yrhamkom.
+My great uncle Ahmad, my great uncle Harb & my uncle Zain. Allah yrhamkom.
+
+ ![harb](/images/harb.jpeg)
 
 Layla. For every moral, every lesson, and every piece of wisdom you taught me. For being a mentor when I needed direction and a voice when I needed to keep moving. Without you pushing me throughout all these years, I don't know if any of this would have ever come out of me. A huge part of this exists because you refused to let me stop. You're the reason all of this is happening, you're the reason the light didn't shed. You're an amazing writer and a beautiful mind. I love you with my entire soul. You'll never understand the capacity of love and I have for you.
 
@@ -29,7 +35,7 @@ Ibrahim Skaik. For teaching me, challenging me, and disciplining me throughout l
 
 Toren Berios. For the creative mind, and the humour we share. That studio in Mississauga back in 2022 became the birthplace of something I never could have imagined. Without those nights, those conversations, those ideas, and that space, none of this would have elevated and became what it is today. You're the reason all this is what it is today. Thank you.
 
-Bianca. For being my one of my biggest inspirations. I love you. You're great and utterly divine.
+Bianca. For being one of my biggest inspirations. I love you. You're great and utterly divine.
 
 Eviny. For teaching me more than you probably realize. For being one of the biggest reasons I kept pushing myself to become better day after day. For reminding me that beauty exists both within a person and in the way they make others feel. Your influence will always live within me and mean the world to me.
 
