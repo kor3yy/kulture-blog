@@ -14,8 +14,11 @@ Ibrahim, brother of Leen, for aspiring and dreaming.
 Inas, mother of Leen, for the art and legacy she left behind.
 
 ![ibrahim](/images/ibrahim.PNG)
+
 ![sara](/images/sara.jpeg)
+
 ![leenalbi](/images/leenalbi.jpg)
+
 ![1handallah](/images/handallah.jpeg)
 
 Farah, sister of Leen. For being the sister of my favourite lost soul, my guardian angel, and one of the greatest influences on my world of art, fashion, and music. You aspire and motivate me everyday. Your words are ethereal and your presence is halcyon. Your support has meant more than I could ever put into words. So much of what exists here would never have found its way into the
@@ -25,9 +28,11 @@ world without you. I love you, and I promise to continue making you proud of me.
 
 My great uncle Ahmad, my great uncle Harb & my uncle Zain. Allah yrhamkom.
 
- ![harb](/images/harb.jpeg)
+![harb](/images/harb.jpeg)
 
-Layla. For every moral, every lesson, and every piece of wisdom you taught me. For being a mentor when I needed direction and a voice when I needed to keep moving. Without you pushing me throughout all these years, I don't know if any of this would have ever come out of me. A huge part of this exists because you refused to let me stop. You're the reason all of this is happening, you're the reason the light didn't shed. You're an amazing writer and a beautiful mind. I love you with my entire soul. You'll never understand the capacity of love and I have for you.
+Alexia. For every moral, every lesson, and every piece of wisdom you taught me. Without you being there for me and pushing me throughout all these years, I don't know if any of this would have ever come out of me if it wasn't for you being there. I love you with my entire soul. You'll never understand the capacity of love and I have for you.
+
+Layla. A huge part of this exists because you refused to let me stop. You're the reason all of this is happening, you're the reason the light didn't shed. You're an amazing writer and a beautiful mind. 
 
 Mohamed Salama. For taking me under your wing when I was still finding my way. None of this would have started, happened, or manifested without your love, courage, and belief in me. You helped plant the seed long before I knew what it could become.
 
