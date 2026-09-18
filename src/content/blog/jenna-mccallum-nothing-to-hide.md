@@ -2,6 +2,7 @@
 title: "Nothing to Hide: Jenna McCallum on Music, Authenticity, and Finding Purpose"
 pubDate: 2026-09-18
 description: "At 21, Australian vocalist Jenna McCallum is building a philosophy of music rooted in safety, authenticity, and human connection — before she's even released her first record."
+thumbnail: "/images/sil.jpeg"
 ---
 
 For Jenna McCallum, music has never simply been music.
@@ -14,6 +15,8 @@ At 21, the Australian vocalist Jenna McCallum has already developed an unusual p
 
 Growing up in Geelong, Victoria, in Australia, Jenna describes herself as privileged to have been raised by two loving parents who devoted themselves to her. Her childhood, however, was not without its difficulties. Jenna grew up alongside a severely disabled sister, whose needs naturally required a significant amount of attention from the family.
 
+![banner](/images/eve.jpeg)
+
 > "It did shift the focus away from a lot of normal attention needs that a child needs when they grow up, because she needed double of that," Jenna explains.
 
 Her family history is equally layered. Her mother was born in Zimbabwe before eventually moving to Australia, while her father was born in Geelong. Jenna also discovered that one of her great-great-great-grandmothers was among the first prisoners transported to Australia with the First Fleet—and one of only two women from that group to eventually be set free.
@@ -23,6 +26,8 @@ That history, combined with her parents' differing backgrounds and beliefs, crea
 Those principles followed Jenna into music.
 
 ## Finding Music
+
+![banner](/images/lens.jpeg)
 
 Singing became an outlet from a young age, particularly as she encountered experiences that were difficult to process. Experiences and ups and downs all became part of the complicated emotional landscape that eventually informed her creativity. For Jenna, singing became a form of self-soothing.
 
@@ -40,6 +45,8 @@ That is also why Jenna sees music as something fundamentally human. In an era in
 
 ## The Universal Language
 
+![banner](/images/sil.jpeg)
+
 To Jenna, music is the universal language—not because everyone understands the lyrics, but because everyone can understand emotion. She listens across genres and cultures, from rap and country to classical, rock, punk and heavy metal. Genre, to her, is secondary to execution and feeling.
 
 Her admiration for James Blake illustrates that philosophy particularly well. Blake sits at the centre of Jenna's current musical admiration, particularly because of his production. She is fascinated by his ability to manipulate sound, texture and melody in ways that make music feel almost physical. His work with artists such as Frank Ocean, Travis Scott and Metro Boomin has further reinforced Jenna's appreciation for production that can turn an already powerful vocal or lyric into something atmospheric and unforgettable.
@@ -49,6 +56,8 @@ But her influences stretch much further.
 Adele and Sia were major influences during her childhood, while artists such as RAYE, Whitney Houston, Kelly Clarkson and Michael Jackson represent the kind of vocal and emotional performance Jenna admires. She isn't interested in music simply because it belongs to a particular genre. She's interested in what happens when an artist can make you feel something.
 
 ## How She Creates
+
+
 
 When Jenna creates, lyrics come first. She reads constantly and has a deep appreciation for poetry, language and flow. A single lyric capable of making someone stop and think can be enough to capture her attention. Words, she says, "mean almost everything" to her. From there comes emotion, followed by melody and production. She is drawn toward small vocal details—high-pitched inflections, layered sounds and melodies that become addictive without necessarily being obvious. Production matters just as much. She loves the contrast of emotionally powerful vocals placed over unexpected or beautiful instrumentation.
 
