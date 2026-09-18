@@ -1,5 +1,5 @@
 ---
-title: "Nothing to Hide: Jenna McCallum on Music, Authenticity, and Finding Purpose"
+title: "Jenna McCallum: Music, Vulnerability & Authenticity"
 pubDate: 2026-09-18
 description: "Jenna McCallum explores the intersection of music, vulnerability, human connection, and purpose, building an artistic identity rooted in authenticity rather than fame."
 thumbnail: "/images/sil.jpeg"
