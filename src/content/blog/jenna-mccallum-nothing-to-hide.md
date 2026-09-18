@@ -1,7 +1,7 @@
 ---
 title: "Nothing to Hide: Jenna McCallum on Music, Authenticity, and Finding Purpose"
 pubDate: 2026-09-18
-description: "At 21, Australian vocalist Jenna McCallum is building a philosophy of music rooted in safety, authenticity, and human connection — before she's even released her first record."
+description: "Jenna McCallum explores the intersection of music, vulnerability, human connection, and purpose, building an artistic identity rooted in authenticity rather than fame."
 thumbnail: "/images/sil.jpeg"
 ---
 
@@ -45,8 +45,6 @@ That is also why Jenna sees music as something fundamentally human. In an era in
 
 ## The Universal Language
 
-![banner](/images/sil.jpeg)
-
 To Jenna, music is the universal language—not because everyone understands the lyrics, but because everyone can understand emotion. She listens across genres and cultures, from rap and country to classical, rock, punk and heavy metal. Genre, to her, is secondary to execution and feeling.
 
 Her admiration for James Blake illustrates that philosophy particularly well. Blake sits at the centre of Jenna's current musical admiration, particularly because of his production. She is fascinated by his ability to manipulate sound, texture and melody in ways that make music feel almost physical. His work with artists such as Frank Ocean, Travis Scott and Metro Boomin has further reinforced Jenna's appreciation for production that can turn an already powerful vocal or lyric into something atmospheric and unforgettable.
@@ -57,7 +55,7 @@ Adele and Sia were major influences during her childhood, while artists such as 
 
 ## How She Creates
 
-
+![banner](/images/sil.jpeg)
 
 When Jenna creates, lyrics come first. She reads constantly and has a deep appreciation for poetry, language and flow. A single lyric capable of making someone stop and think can be enough to capture her attention. Words, she says, "mean almost everything" to her. From there comes emotion, followed by melody and production. She is drawn toward small vocal details—high-pitched inflections, layered sounds and melodies that become addictive without necessarily being obvious. Production matters just as much. She loves the contrast of emotionally powerful vocals placed over unexpected or beautiful instrumentation.
 
@@ -68,8 +66,6 @@ And while Jenna has yet to officially release her own music, she doesn't see tha
 She wants someone to listen and think:
 
 > "I feel heard, I feel safe, I'm not alone."
-
-## Real Over Artificial
 
 That philosophy also explains her frustration with the direction of modern music and the increasing presence of AI. Jenna isn't interested in competing with technology by trying to replicate it. Instead, she wants to emphasize the qualities technology cannot authentically replace: imperfection, soul, vulnerability and human experience. She wants to bring back the kind of music she associates with artists like Adele, Whitney Houston, Kelly Clarkson and Michael Jackson—music that, in her eyes, carried meaning beyond simply making money.
 
@@ -84,6 +80,8 @@ For Jenna, success has consequently taken on a completely different meaning. She
 That mindset is perhaps what separates Jenna's ambitions from the conventional image of an aspiring artist. She isn't particularly interested in being famous. She wants to leave something behind. She wants people, years later, to remember her as someone who mattered to a particular group of people. Someone who changed something. Someone who brought a sense of humanity back into music.
 
 ## A Voice for the Voiceless
+
+![banner](/images/rdd.jpeg)
 
 And interestingly, music isn't even her only passion. Alongside her artistic ambitions, Jenna studies biological sciences, with a focus on zoology and microbiology. Her interest in the natural world reflects another part of the same philosophy that drives her music: the desire to care for things that cannot always speak for themselves.
 
