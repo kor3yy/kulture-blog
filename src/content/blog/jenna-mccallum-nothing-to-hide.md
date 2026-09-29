@@ -1,7 +1,8 @@
 ---
-title: "Nothing to Hide: Jenna McCallum on Music, Authenticity, and Finding Purpose"
+title: "Jenna McCallum: Music, Vulnerability & Authenticity"
 pubDate: 2026-09-18
-description: "At 21, Australian vocalist Jenna McCallum is building a philosophy of music rooted in safety, authenticity, and human connection — before she's even released her first record."
+description: "Jenna McCallum explores the intersection of music, vulnerability, human connection, and purpose, building an artistic identity rooted in authenticity rather than fame."
+thumbnail: "/images/sil.jpeg"
 ---
 
 For Jenna McCallum, music has never simply been music.
@@ -14,6 +15,8 @@ At 21, the Australian vocalist Jenna McCallum has already developed an unusual p
 
 Growing up in Geelong, Victoria, in Australia, Jenna describes herself as privileged to have been raised by two loving parents who devoted themselves to her. Her childhood, however, was not without its difficulties. Jenna grew up alongside a severely disabled sister, whose needs naturally required a significant amount of attention from the family.
 
+![banner](/images/eve.jpeg)
+
 > "It did shift the focus away from a lot of normal attention needs that a child needs when they grow up, because she needed double of that," Jenna explains.
 
 Her family history is equally layered. Her mother was born in Zimbabwe before eventually moving to Australia, while her father was born in Geelong. Jenna also discovered that one of her great-great-great-grandmothers was among the first prisoners transported to Australia with the First Fleet—and one of only two women from that group to eventually be set free.
@@ -23,6 +26,8 @@ That history, combined with her parents' differing backgrounds and beliefs, crea
 Those principles followed Jenna into music.
 
 ## Finding Music
+
+![banner](/images/lens.jpeg)
 
 Singing became an outlet from a young age, particularly as she encountered experiences that were difficult to process. Experiences and ups and downs all became part of the complicated emotional landscape that eventually informed her creativity. For Jenna, singing became a form of self-soothing.
 
@@ -50,6 +55,8 @@ Adele and Sia were major influences during her childhood, while artists such as 
 
 ## How She Creates
 
+![banner](/images/sil.jpeg)
+
 When Jenna creates, lyrics come first. She reads constantly and has a deep appreciation for poetry, language and flow. A single lyric capable of making someone stop and think can be enough to capture her attention. Words, she says, "mean almost everything" to her. From there comes emotion, followed by melody and production. She is drawn toward small vocal details—high-pitched inflections, layered sounds and melodies that become addictive without necessarily being obvious. Production matters just as much. She loves the contrast of emotionally powerful vocals placed over unexpected or beautiful instrumentation.
 
 That combination of lyricism, emotion and sound forms the foundation of the artist she wants to become.
@@ -59,8 +66,6 @@ And while Jenna has yet to officially release her own music, she doesn't see tha
 She wants someone to listen and think:
 
 > "I feel heard, I feel safe, I'm not alone."
-
-## Real Over Artificial
 
 That philosophy also explains her frustration with the direction of modern music and the increasing presence of AI. Jenna isn't interested in competing with technology by trying to replicate it. Instead, she wants to emphasize the qualities technology cannot authentically replace: imperfection, soul, vulnerability and human experience. She wants to bring back the kind of music she associates with artists like Adele, Whitney Houston, Kelly Clarkson and Michael Jackson—music that, in her eyes, carried meaning beyond simply making money.
 
@@ -75,6 +80,8 @@ For Jenna, success has consequently taken on a completely different meaning. She
 That mindset is perhaps what separates Jenna's ambitions from the conventional image of an aspiring artist. She isn't particularly interested in being famous. She wants to leave something behind. She wants people, years later, to remember her as someone who mattered to a particular group of people. Someone who changed something. Someone who brought a sense of humanity back into music.
 
 ## A Voice for the Voiceless
+
+![banner](/images/rdd.jpeg)
 
 And interestingly, music isn't even her only passion. Alongside her artistic ambitions, Jenna studies biological sciences, with a focus on zoology and microbiology. Her interest in the natural world reflects another part of the same philosophy that drives her music: the desire to care for things that cannot always speak for themselves.
 
