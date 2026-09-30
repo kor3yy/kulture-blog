@@ -2,7 +2,7 @@
 title: "Toren Berios: A Jack of All Trades"
 pubDate: 2026-09-29
 description: "From producing for underground SoundCloud artists to building worlds across music, fashion, and visual culture."
-thumbnail: "/images/toren.jpeg"
+thumbnail: "/images/guelit.jpeg"
 ---
 
 For Toren Berios, music has never really been just about making songs. It has always been about building a world around him.
@@ -11,7 +11,7 @@ Born and raised in Mississauga, Ontario, Toren first started producing music in 
 
 But the technical side was only one part of the equation. Toren was already developing a sound and aesthetic of his own.
 
-His earliest musical influences came from EDM. In middle school, he got influenced by artists like Skrillex and DeadMau5, as well as music from channels like NoCopyrightSounds. By high school, his attention had shifted toward the underground. Around 2019 and 2020, he was listening to artists such as Summrs, Autumn!, SoFaygo, Ken Carson, Midwxst, KanKan and Yeat before many of them reached the level of mainstream recognition they have today.
+His earliest musical influences came from EDM. In middle school, he got influenced by artists like Skrillex and Deadmau5, as well as music from channels like NoCopyrightSounds. By high school, his attention had shifted toward the underground. Around 2019 and 2020, he was listening to artists such as Summrs, Autumn!, SoFaygo, Ken Carson, Midwxst, KanKan and Yeat before many of them reached the level of mainstream recognition they have today.
 
 The SoundCloud era left a particularly strong impression on him: melodic production, rage beats, hyperpop and the experimental energy surrounding the scene. Artists like 1nonly and Lilbubblegum also became part of that mix, combining elements of EDM and rap in ways that expanded what he thought music could sound like.
 
@@ -25,7 +25,9 @@ One of the moments that stood out was "Woosah Freestyle," a song by KanKan featu
 
 Another was "Lil Skatty" with Yeat and TwoTimeVae. The song was officially released in January of 2022, but reuploads across YouTube and SoundCloud started to circulate, eventually accumulating more than a million streams across platforms.
 
-"RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4rr," had a couple million streams across all platforms. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development.
+"RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4RR," had a couple million streams across all platforms. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development.
+
+![banner](/images/44.jpeg) ![banner](/images/mi.jpeg) ![banner](/images/ty.jpeg)
 
 But some of his most important creative relationships began much earlier.
 
