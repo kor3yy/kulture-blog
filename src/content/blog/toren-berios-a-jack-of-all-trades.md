@@ -29,13 +29,13 @@ Another was "Lil Skatty" with Yeat and TwoTimeVae. The song was officially relea
 
 <figure>
   <img src="/images/44.jpg"/>
-  <figcaption>KanKan's "##B4rr" released June 11, 2021."</figcaption>
+  <figcaption>KanKan's "##B4rr" released June 11, 2021.</figcaption>
 </figure>  <figure>
   <img src="/images/ty.jpeg"/>
-  <figcaption>TyFontaine's "Ascension (Deluxe) - Virtual World 2" released Octover 20, 2021."</figcaption>
+  <figcaption>TyFontaine's "Ascension (Deluxe) - Virtual World 2" released Octover 20, 2021.</figcaption>
 </figure> <figure>
   <img src="/images/mi.jpg"/>
-  <figcaption>DC The Don's & $NOT's "WHO THIS?" released April 29, 2023."</figcaption>
+  <figcaption>DC The Don's & $NOT's "WHO THIS?" released April 29, 2023.</figcaption>
 </figure> 
 
 But some of his most important creative relationships began much earlier.
