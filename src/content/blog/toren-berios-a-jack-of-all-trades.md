@@ -23,7 +23,17 @@ Eventually, those connections led to collaborations and placements involving art
 
 One of the moments that stood out was "Woosah Freestyle," a song by KanKan featuring production from Marko. The track became a major milestone for him, eventually passing 420,000 streams on SoundCloud alone.
 
+<figure>
+  <img src="/images/kk.jpg"/>
+  <figcaption>KanKan's "Woosah Freestyle" released November 6, 2020.</figcaption>
+</figure> 
+
 Another was "Lil Skatty" with Yeat and TwoTimeVae. The song was officially released in January of 2022, but reuploads across YouTube and SoundCloud started to circulate, eventually accumulating more than a million streams across platforms.
+
+<figure>
+  <img src="/images/sk.jpg"/>
+  <figcaption>TwoTimeVae's & Yeats "Lil Skatty" released January 22, 2022.</figcaption>
+</figure> 
 
 "RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4rr," had a couple million streams across all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms.
 
