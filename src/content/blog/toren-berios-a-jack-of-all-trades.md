@@ -27,7 +27,10 @@ Another was "Lil Skatty" with Yeat and TwoTimeVae. The song was officially relea
 
 "RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4RR," had a couple million streams across all platforms. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development.
 
-![banner](/images/44.jpeg) ![banner](/images/mi.jpeg) ![banner](/images/ty.jpeg)
+<figure>
+  <img src="/images/44.jpg" alt="44" />
+  <figcaption>KanKan's "##B4rr" released June 11, 2021."</figcaption>
+</figure>  ![banner](/images/mi.jpg) ![banner](/images/ty.jpeg)
 
 But some of his most important creative relationships began much earlier.
 
