@@ -13,6 +13,10 @@ For Toren Berios, music has never really been just about making songs. It has al
 
 Born and raised in Mississauga, Ontario, Toren first started producing music when he was 12 years old, and started working out of a local studio when he was 16, and connecting with artists and producers in the area. After graduating in 2022, he spent a year at Metalworks, a music institution in Ontario, where he developed his technical skills, mastered Pro Tools and worked with professional recording equipment.
 
+<figure> <figure>
+  <img src="/images/bui.jpeg"/> 
+</figure> 
+
 But the technical side was only one part of the equation. Toren was already developing a sound and aesthetic of his own.
 
 His earliest musical influences came from EDM. In middle school, he got influenced by artists like Skrillex and Deadmau5, as well as music from channels like NoCopyrightSounds. By high school, his attention had shifted toward the underground. Around 2019 and 2020, he was listening to artists such as Summrs, Autumn!, SoFaygo, Ken Carson, Midwxst, KanKan and Yeat before many of them reached the level of mainstream recognition they have today.
