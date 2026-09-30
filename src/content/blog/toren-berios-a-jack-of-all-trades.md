@@ -25,12 +25,18 @@ One of the moments that stood out was "Woosah Freestyle," a song by KanKan featu
 
 Another was "Lil Skatty" with Yeat and TwoTimeVae. The song was officially released in January of 2022, but reuploads across YouTube and SoundCloud started to circulate, eventually accumulating more than a million streams across platforms.
 
-"RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4RR," had a couple million streams across all platforms. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development.
+"RedEye," a single by frequent collaborator KanKan from his 2021 EP "##B4rr," had a couple million streams across all platforms. His work on TyFontaine's "Rae Addison," featured on the deluxe version of his 2021 album Ascension, Virtual World 2, included appearances from artists such as Trippie Redd, Lil Tecca, Nick Mira — all diamond RIAA certified artists — as well as Summrs and Pasto Flocco, making the placement another significant point in Toren's development. There was also "WHO THIS?" by DC The Don & $not, released in spring of 2023, that accumulated over half a million streams on all platforms.
 
 <figure>
-  <img src="/images/44.jpg" alt="44" />
+  <img src="/images/44.jpg"/>
   <figcaption>KanKan's "##B4rr" released June 11, 2021."</figcaption>
-</figure>  ![banner](/images/mi.jpg) ![banner](/images/ty.jpeg)
+</figure>  <figure>
+  <img src="/images/ty.jpeg"/>
+  <figcaption>TyFontaine's "Ascension (Deluxe) - Virtual World 2" released Octover 20, 2021."</figcaption>
+</figure> <figure>
+  <img src="/images/mi.jpg"/>
+  <figcaption>DC The Don's & $NOT's "WHO THIS?" released April 29, 2023."</figcaption>
+</figure> 
 
 But some of his most important creative relationships began much earlier.
 
