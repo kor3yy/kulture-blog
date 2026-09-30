@@ -2,6 +2,7 @@
 title: "Toren Berios: A Jack of All Trades"
 pubDate: 2026-09-29
 description: "From producing for underground SoundCloud artists to building worlds across music, fashion, and visual culture."
+thumbnail: "/images/snoww.jpeg"
 ---
 
 For Toren Berios, music has never really been just about making songs. It has always been about building a world around him.
