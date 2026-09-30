@@ -50,12 +50,12 @@ TNA is Toren's first album. It's a collection of songs produced by him to showca
 
 <figure>
   <img src="/images/tna1.jpg"/>
-  <figcaption>TNA" released July 29, 2021.</figcaption>
+  <figcaption>TNA released July 29, 2021.</figcaption>
 </figure> 
 
 <figure>
   <img src="/images/tna.jpg"/>
-  <figcaption>TNA2" released December 2, 2025.</figcaption>
+  <figcaption>TNA2 released December 2, 2025.</figcaption>
 </figure> 
 
 ## Eclipse Vol. 1
