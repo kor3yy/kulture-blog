@@ -48,6 +48,16 @@ But some of his most important creative relationships began much earlier.
 
 TNA is Toren's first album. It's a collection of songs produced by him to showcase his sound. It's hard to pin a genre or category for Toren's music as it's more than an mp3. It's emotions that make you feel like you're levitating. The same can be said about TNA2, which was released four years later. The sound improved, quality elevated, numbers grew, and the art and craft was mastered more and more. It reflects on Toren's overall sound. It was chill, laid back and catchy.
 
+<figure>
+  <img src="/images/tna1.jpg"/>
+  <figcaption>TNA" released July 29, 2021.</figcaption>
+</figure> 
+
+<figure>
+  <img src="/images/tna.jpg"/>
+  <figcaption>TNA2" released December 2, 2025.</figcaption>
+</figure> 
+
 ## Eclipse Vol. 1
 
 Dropping on October 4th of 2025, Toren & close friend and collaborator Kizzy released Eclipse Vol. 1. Toren describes the project as "An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination." Eclipse is a collective of artists, producers and geniuses curating art. Making music with meaning. Eclipse involves Toren, Kizzy and four other producers including, Jaime, DreMadeThis, Cruize & Normies. Toren & Kizzy put their all into the project, and all the trials and tribulations they overcame with music since they started has been put into Eclipse Vol. 1.
