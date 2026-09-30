@@ -5,6 +5,10 @@ description: "From producing for underground SoundCloud artists to building worl
 thumbnail: "/images/snoww.jpeg"
 ---
 
+<figure>
+  <img src="/images/snoww.jpeg"/>
+</figure> 
+
 For Toren Berios, music has never really been just about making songs. It has always been about building a world around him.
 
 Born and raised in Mississauga, Ontario, Toren first started producing music when he was 12 years old, and started working out of a local studio when he was 16, and connecting with artists and producers in the area. After graduating in 2022, he spent a year at Metalworks, a music institution in Ontario, where he developed his technical skills, mastered Pro Tools and worked with professional recording equipment.
@@ -86,9 +90,17 @@ Vibeland isn't simply a music project to Toren. It is an environment. The idea i
 
 Toren has also been developing SKWN, a clothing brand focused on custom pieces and unconventional combinations of streetwear. The goal isn't necessarily to make something that fits neatly into an existing style, but to create pieces that stand out — pieces that feel like a statement.
 
+<figure>
+  <img src="/images/toren2.jpeg"/> 
+</figure> 
+
 That experimental approach has become part of Toren's identity. Music feeds into fashion, fashion feeds back into the music, and the two exist within the same creative universe. SKWN is even referenced throughout much of Vibeland, making the clothing brand feel less like a separate business and more like another extension of the world he's building.
 
 For Toren, experimentation is important because creativity itself is difficult to separate from everyday life. His production process starts with something as simple as the day he's having. The energy of the day gets transferred into the beat. Whatever emotions or thoughts already exist become part of the production, allowing the music to feel less manufactured and more personal.
+
+<figure>
+  <img src="/images/toren3.jpeg"/> 
+</figure> 
 
 > "You just gotta let yourself flow out of you," he explains, describing art as an expression of who you are and what you go through. For him, that authenticity is what makes the work meaningful.
 
