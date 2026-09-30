@@ -114,9 +114,19 @@ Because they know each other beyond the music, Toren feels that Kizzy's music ca
 
 > "I just feel like because I know him as a person, his music resonates with me heavy."
 
+<figure> <figure>
+  <img src="/images/gue.jpg"/> 
+</figure> 
+  <img src="/images/gue2.jpg"/> 
+</figure> 
+
 That connection to creativity isn't limited to Toren himself. It is something he grew up around.
 
 Both of his parents are artists in their own ways. His mother works in photography, shooting weddings and themed photoshoots while also designing and building sets. His father is a painter who works with abstract pieces and collages, sometimes combining different paintings with materials like tape and string. Their influence can even be found physically in the spaces where Toren creates. His father helped paint and work on the studio Toren used, including the walls and carpets.
+
+<figure>
+  <img src="/images/stuu.jpg"/> 
+</figure> 
 
 Both parents have supported his creative path, giving him an environment where making things has always felt natural.
 
