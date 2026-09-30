@@ -24,7 +24,7 @@ His earliest musical influences came from EDM. In middle school, he got influenc
 The SoundCloud era left a particularly strong impression on him: melodic production, rage beats, hyperpop and the experimental energy surrounding the scene. Artists like Jades and Kiryano also became part of that mix, combining elements of EDM and rap in ways that expanded what he thought music could sound like.
 
 <figure> <figure>
-  <img src="/images/stu.jpg"/> 
+  <img src="/images/stu.JPG"/> 
 </figure> 
 
 His entry into the scene was largely built through relationships. Rather than immediately working directly with major artists, Toren would often send melodies to producers, getting his name into different circles. Those producers would then pass his work along to other producers or artists. Sometimes one producer would create the melodies, another would handle drums, and together they would finish the record and split the credits.
