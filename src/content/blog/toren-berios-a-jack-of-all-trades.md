@@ -25,6 +25,10 @@ It was essentially a chain of connections: one person knew another person, who k
 
 Eventually, those connections led to collaborations and placements involving artists including $not, DC The Don, KanKan, Yeat, Midwxst and Iayze. For Toren, getting those placements could feel surreal. These were artists he had spent years listening to every day. Hearing his own production become part of their music came with the kind of excitement that was difficult to separate from disbelief.
 
+<figure> <figure>
+  <img src="/images/scc.jpg"/> 
+</figure> 
+
 One of the moments that stood out was "Woosah Freestyle," a song by KanKan featuring production from Marko. The track became a major milestone for him, eventually passing 420,000 streams on SoundCloud alone.
 
 <figure>
@@ -76,6 +80,10 @@ TNA is Toren's first album. It's a collection of songs produced by him to showca
 
 Dropping on October 4th of 2025, Toren & close friend and collaborator Kizzy released Eclipse Vol. 1. Toren describes the project as "An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination." Eclipse is a collective of artists, producers and geniuses curating art. Making music with meaning. Eclipse involves Toren, Kizzy and four other producers including, Jaime, DreMadeThis, Cruize & Normies. Toren & Kizzy put their all into the project, and all the trials and tribulations they overcame with music since they started has been put into Eclipse Vol. 1.
 
+<figure> <figure>
+  <img src="/images/ec.jpeg"/> 
+</figure> 
+
 Toren met Kizzy in Grade 9, when they were freestyling at a studio. The two gradually became closer, eventually becoming frequent collaborators and really good friends. The relationship works both ways. Toren taught Kizzy how to produce, while Kizzy eventually taught Toren how to rap. About a year ago, Toren began stepping further into rapping himself, expanding his role beyond production.
 
 That same philosophy of collaboration carries into Eclipse, as well as the larger world Toren has been creating around his music.
@@ -85,6 +93,10 @@ One of those worlds is Vibeland.
 ## Vibeland
 
 Vibeland isn't simply a music project to Toren. It is an environment. The idea is to create something that takes people somewhere else — a feeling, an atmosphere, almost a euphoric state. The name itself reflects that idea. The project extends beyond the music. Boltdidthat worked on the cover art, the same mind behind the cover art for 2 Alivë, Yeat's 2022 studio album that charted at #6 on the Billboard 200 and was certified Gold, with songs on it being certified Platinum. It is scheduled to release on September 30th.
+
+<figure> <figure>
+  <img src="/images/vibeland.jpeg"/> 
+</figure> 
 
 ## SKWN
 
@@ -106,18 +118,24 @@ For Toren, experimentation is important because creativity itself is difficult t
 
 One of the artists who helped define an important period in that development was Midwxst. At the time, Midwxst was still pretty underground and was deeply involved in the emerging hyperpop scene. Toren was already tapped into that community and saw how much potential existed within it. Working around that scene introduced him to new people, new sounds and new approaches to production.
 
+<figure> <figure>
+  <img src="/images/gu2e.jpeg"/> 
+</figure> 
+
 Looking back, he considers that period a major turning point. It pushed him to become better at production while simultaneously expanding the number of people he was able to create with.
 
 Still, when asked which music resonates with him most, his answer isn't necessarily one of the biggest artists he's worked with. It comes back to Kizzy.
+
+<figure> <figure>
+  <img src="/images/kiz.jpeg"/> 
+</figure> 
 
 Because they know each other beyond the music, Toren feels that Kizzy's music carries a different weight. Their chemistry comes from years of friendship and collaboration, making the songs feel like a reflection of the person he already knows.
 
 > "I just feel like because I know him as a person, his music resonates with me heavy."
 
 <figure> <figure>
-  <img src="/images/gue.jpg"/> 
-</figure> 
-  <img src="/images/gue2.jpg"/> 
+  <img src="/images/gue.jpeg"/> 
 </figure> 
 
 That connection to creativity isn't limited to Toren himself. It is something he grew up around.
@@ -125,10 +143,18 @@ That connection to creativity isn't limited to Toren himself. It is something he
 Both of his parents are artists in their own ways. His mother works in photography, shooting weddings and themed photoshoots while also designing and building sets. His father is a painter who works with abstract pieces and collages, sometimes combining different paintings with materials like tape and string. Their influence can even be found physically in the spaces where Toren creates. His father helped paint and work on the studio Toren used, including the walls and carpets.
 
 <figure>
-  <img src="/images/stuu.jpg"/> 
+  <img src="/images/stuu.JPG"/> 
+</figure> 
+
+<figure> <figure>
+  <img src="/images/buii.jpeg"/> 
 </figure> 
 
 Both parents have supported his creative path, giving him an environment where making things has always felt natural.
+
+<figure> <figure>
+  <img src="/images/sold.JPG"/> 
+</figure> 
 
 Today, Toren lives in Guelph, roughly an hour from Toronto, but the distance hasn't separated him from the communities that shaped him. If anything, his work continues to blur the lines between producer, rapper, designer, creative director & adult actor.
 
