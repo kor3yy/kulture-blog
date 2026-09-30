@@ -123,7 +123,7 @@ For Toren, experimentation is important because creativity itself is difficult t
 One of the artists who helped define an important period in that development was Midwxst. At the time, Midwxst was still pretty underground and was deeply involved in the emerging hyperpop scene. Toren was already tapped into that community and saw how much potential existed within it. Working around that scene introduced him to new people, new sounds and new approaches to production.
 
 <figure> <figure>
-  <img src="/images/gu2e.jpeg"/> 
+  <img src="/images/gue2.jpeg"/> 
 </figure> 
 
 Looking back, he considers that period a major turning point. It pushed him to become better at production while simultaneously expanding the number of people he was able to create with.
