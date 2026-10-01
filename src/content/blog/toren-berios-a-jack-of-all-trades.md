@@ -37,7 +37,8 @@ Eventually, those connections led to collaborations and placements involving art
   <img src="/images/scc.jpg"/> 
 </figure> 
 
-One of the moments that stood out was "Woosah Freestyle," a song by KanKan featuring production from Marko. The track became a major milestone for him, eventually passing 420,000 streams on SoundCloud alone.
+One of the moments that stood out was "Woosah Freestyle," a song by KanKan featuring production from Marko & Jayya, other long time friends and producers.
+The track became a major milestone for him, eventually passing 420,000 streams on SoundCloud alone.
 
 <figure>
   <img src="/images/kk.jpg"/>
@@ -110,6 +111,8 @@ Vibeland isn't simply a music project to Toren. It is an environment. The idea i
 
 Toren has also been developing SKWN, a clothing brand focused on custom pieces and unconventional combinations of streetwear. The goal isn't necessarily to make something that fits neatly into an existing style, but to create pieces that stand out — pieces that feel like a statement.
 
+Toren is also inspired by his peers in Toronto who as well as being musicians also run creative brands, such as Human Nature from Oshawa, associated with talented artists like Cndwdkb aka The Difference, 1ormy, and RTXchrome. Another brand is Variety Camp, promoted by artists like BurgaWyms, and AyoNoDeji, who is a frequent collaborator featured on the Vibeland Album.
+
 <figure>
   <img src="/images/toren2.jpeg"/> 
 </figure> 
@@ -125,10 +128,6 @@ For Toren, experimentation is important because creativity itself is difficult t
 > "You just gotta let yourself flow out of you," he explains, describing art as an expression of who you are and what you go through. For him, that authenticity is what makes the work meaningful.
 
 One of the artists who helped define an important period in that development was Midwxst. At the time, Midwxst was still pretty underground and was deeply involved in the emerging hyperpop scene. Toren was already tapped into that community and saw how much potential existed within it. Working around that scene introduced him to new people, new sounds and new approaches to production.
-
-<figure> <figure>
-  <img src="/images/gue2.jpeg"/> 
-</figure> 
 
 Looking back, he considers that period a major turning point. It pushed him to become better at production while simultaneously expanding the number of people he was able to create with.
 
@@ -164,7 +163,7 @@ Both parents have supported his creative path, giving him an environment where m
   <img src="/images/sold.JPG"/> 
 </figure> 
 
-Today, Toren lives in Guelph, roughly an hour from Toronto, but the distance hasn't separated him from the communities that shaped him. If anything, his work continues to blur the lines between producer, rapper, designer, creative director & adult actor.
+Today, Toren lives in Guelph, roughly an hour from Toronto, but the distance hasn't separated him from the communities that shaped him. If anything, his work continues to blur the lines between producer, rapper, designer, adult actor & creative director.
 
 He has already spent years moving between different scenes and disciplines, from EDM to SoundCloud's underground to hyperpop, from production to rapping, and now from music into clothing and visual culture.
 
