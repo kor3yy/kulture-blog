@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import '../styles/global.css';
 
 const allPosts = await getCollection('blog');
 
@@ -26,7 +27,6 @@ const postsWithThumbs = posts.map((post) => {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Turath</title>
-    <link rel="stylesheet" href="/styles/global.css" />
   </head>
   <body class="home">
     <header>
@@ -78,7 +78,6 @@ body.home {
   background-repeat: no-repeat;
 }
 
-/* Make post cards readable over the GIF */
 body.home .post-card a {
   background: rgba(255, 255, 255, 0.92);
 }
@@ -88,3 +87,4 @@ body.home .hero {
   border-radius: 12px;
   padding: 2rem 1rem;
 }
+
