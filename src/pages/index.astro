@@ -28,7 +28,7 @@ const postsWithThumbs = posts.map((post) => {
     <title>Turath</title>
     <link rel="stylesheet" href="/styles/global.css" />
   </head>
-  <body>
+  <body class="home">
     <header>
       <nav>
         <a href="/" class="logo">Turath</a>
@@ -69,3 +69,22 @@ const postsWithThumbs = posts.map((post) => {
     </footer>
   </body>
 </html>
+/* GIF background — front page only */
+body.home {
+  background-image: url('/images/background.gif');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Make post cards readable over the GIF */
+body.home .post-card a {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+body.home .hero {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  padding: 2rem 1rem;
+}
